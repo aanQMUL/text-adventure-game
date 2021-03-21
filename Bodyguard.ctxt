@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bodyguard
+comment1.params=name
+comment1.target=Bodyguard(java.lang.String)
+comment2.params=c
+comment2.target=boolean\ stopEscape(Character)
+comment3.params=
+comment3.target=boolean\ isDistracted()
+comment4.params=
+comment4.target=void\ distracted()
+comment5.params=
+comment5.target=void\ printDescription()
+numComments=6

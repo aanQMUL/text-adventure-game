@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=staff\ bodyguard\ item
+comment1.target=Room(Staff,\ Bodyguard,\ Item)
+comment2.params=
+comment2.target=Staff\ getStaff()
+comment3.params=
+comment3.target=Bodyguard\ getBodyguard()
+comment4.params=
+comment4.target=Item\ getItem()
+comment5.params=
+comment5.target=void\ removeItem()
+comment6.params=
+comment6.target=void\ printDescription()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Target
+comment1.params=name
+comment1.target=Target(java.lang.String)
+comment2.params=
+comment2.target=int\ getDistanceFromWeapon()
+comment3.params=c
+comment3.target=boolean\ grabWeapon(Character)
+comment4.params=c
+comment4.target=int\ attack(Character)
+comment5.params=
+comment5.target=void\ printDescription()
+numComments=6

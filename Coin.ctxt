@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Coin
+comment1.params=
+comment1.target=Coin()
+comment2.params=distracted
+comment2.target=boolean\ distract(boolean)
+comment3.params=
+comment3.target=void\ printDescription()
+numComments=4

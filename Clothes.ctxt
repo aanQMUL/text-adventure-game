@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Clothes
+comment1.params=
+comment1.target=Clothes()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=void\ stats()
+comment4.params=
+comment4.target=void\ printDescription()
+numComments=5

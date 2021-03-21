@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NonPlayer
+comment1.params=name\ attackLevel\ defenseLevel\ conscious\ alive\ escaped
+comment1.target=NonPlayer(java.lang.String,\ int,\ int,\ boolean,\ boolean,\ boolean)
+comment2.params=name\ attackLevel\ defenseLevel
+comment2.target=NonPlayer(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=boolean\ isConscious()
+comment4.params=
+comment4.target=boolean\ isAlive()
+comment5.params=
+comment5.target=boolean\ hasEscaped()
+comment6.params=
+comment6.target=void\ knockedOut()
+comment7.params=
+comment7.target=void\ die()
+comment8.params=
+comment8.target=void\ escaped()
+numComments=9

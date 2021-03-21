@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=visibility\ attackLevel\ defenseLevel\ health
+comment1.target=Item(int,\ int,\ int,\ int)
+comment10.params=change
+comment10.target=void\ setHealthModifier(int)
+comment11.params=
+comment11.target=void\ stats()
+comment12.params=
+comment12.target=void\ printDescription()
+comment2.params=
+comment2.target=Item()
+comment3.params=
+comment3.target=int\ getVisibilityModifier()
+comment4.params=
+comment4.target=int\ getAttackLevelModifier()
+comment5.params=
+comment5.target=int\ getDefenseLevelModifier()
+comment6.params=
+comment6.target=int\ getHealthModifier()
+comment7.params=change
+comment7.target=void\ setVisibilityModifier(int)
+comment8.params=change
+comment8.target=void\ setAttackLevelModifier(int)
+comment9.params=change
+comment9.target=void\ setDefenseLevelModifier(int)
+numComments=13
